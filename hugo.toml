@@ -1,4 +1,4 @@
 baseURL = 'https://joaofm91.github.io/Estatistica-dos-dados/'
 languageCode = 'pt-br'
-title = 'Bayesiana Book'
+title = 'Tópicos em Bayesiana'
 theme = "hugo-book"
